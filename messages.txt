@@ -1,0 +1,1 @@
+Messaggio ricevuto su temp: 32.5Messaggio ricevuto su pres: 102345Messaggio ricevuto su temp: 12Messaggio ricevuto su pres: 123456

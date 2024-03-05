@@ -1,0 +1,16 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Ceserani",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "mqtt": "^5.3.6"
+  },
+  "type": "module"
+}
